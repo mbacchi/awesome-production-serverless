@@ -26,7 +26,6 @@
 
 ### Production Serverless Security
 - [Serverless Security](https://theburningmonk.com/2017/08/many-faced-threats-to-serverless-security/) blog post by Yan Cui
-- 
 
 ## Books (and eBooks)
 - [DynamoDBBook](https://www.dynamodbbook.com/) - Digital eBook by AWS Data Hero [Alex Debrie](https://www.alexdebrie.com/)
@@ -40,4 +39,4 @@ We welcome contributions, information on how to get involved in the [CONTRIBUTIN
 This is licenced with the [CC-BY 4.0](LICENSE) license.
 
 ### Author
-Matt Bacchi ([mbacchi.github.io](mbacchi.github.io))
+Matt Bacchi ([mbacchi.github.io](https://mbacchi.github.io))
