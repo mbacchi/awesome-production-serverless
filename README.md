@@ -24,11 +24,11 @@
 ### General Production Serverless
 - [How to operate reliable AWS Lambda applications in production](https://www.concurrencylabs.com/blog/how-to-operate-aws-lambda/) - What to consider when running Lambda applications in production
 - [Case studies of AWS Serverless apps in production](https://winterwindsoftware.com/real-world-serverless-case-studies/) - List of blogs from companies navigating the transition to a serverless model
-- [Hacker News thread (2017)](https://news.ycombinator.com/item?id=14601809) on AWS Lambda in production
+- [Ask HN: How was your experience with AWS Lambda in production?](https://news.ycombinator.com/item?id=14601809) - Hacker News thread from 2017 on AWS Lambda in production
 - [The Rise of Serverless Computing](https://cacm.acm.org/magazines/2019/12/241054-the-rise-of-serverless-computing/fulltext) - Communications of the ACM article
 
 ### Production Serverless Security
-- [Serverless Security](https://theburningmonk.com/2017/08/many-faced-threats-to-serverless-security/) blog post by Yan Cui
+- [Serverless Security](https://theburningmonk.com/2017/08/many-faced-threats-to-serverless-security/) - blog post by Yan Cui
 
 ## Conference Talks
 - [Architectural Patterns in the Serverless Journey of shop.LEGO.com](https://www.youtube.com/watch?v=tK6df3IJcgc)
