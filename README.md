@@ -21,6 +21,9 @@
 ## Articles and Blog Posts
 ### General Production Serverless
 - [How to operate reliable AWS Lambda applications in production](https://www.concurrencylabs.com/blog/how-to-operate-aws-lambda/) - What to consider when running Lambda applications in production
+- [Case studies of AWS Serverless apps in production](https://winterwindsoftware.com/real-world-serverless-case-studies/) - List of blogs from companies navigating the transition to a serverless model
+- [Hacker News thread (2017)](https://news.ycombinator.com/item?id=14601809) on AWS Lambda in production
+
 ### Production Serverless Security
 - [Serverless Security](https://theburningmonk.com/2017/08/many-faced-threats-to-serverless-security/) blog post by Yan Cui
 - 
@@ -37,4 +40,4 @@ We welcome contributions, information on how to get involved in the [CONTRIBUTIN
 This is licenced with the [CC-BY 4.0](LICENSE) license.
 
 ### Author
-Matt Bacchi (github.com/mbacchi)
+Matt Bacchi ([mbacchi.github.io](mbacchi.github.io))

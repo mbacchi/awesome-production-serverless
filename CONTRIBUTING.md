@@ -1,6 +1,6 @@
 # Contributing
 
-All contributions are welcome if they are useful and not abusive.
+All contributions are welcome if they are useful, not abusive, and not simply a plug for your product.
 
 ## How to Contribute
 
