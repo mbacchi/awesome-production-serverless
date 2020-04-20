@@ -42,7 +42,7 @@
 - [DynamoDBBook](https://www.dynamodbbook.com/) - Digital eBook by AWS Data Hero [Alex Debrie](https://www.alexdebrie.com/)
 
 ## Contribute
-We welcome contributions, information on how to get involved in the [CONTRIBUTING.md](https://github.com/mbacchi/awesome-production-serverless/CONTRIBUTING.md) file.
+We welcome contributions, information on how to get involved in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## Meta
 
