@@ -53,4 +53,4 @@ We welcome contributions, information on how to get involved in the [CONTRIBUTIN
 This is licenced with the [CC-BY 4.0](LICENSE) license.
 
 ### Author
-Matt Bacchi ([mbacchi.github.io](https://mbacchi.github.io))
+Matt Bacchi ([bacchi.org](https://bacchi.org))
